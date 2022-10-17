@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 Currently working on backend Java development
+- 🔭 Currently working as a backend Java developer
 - 🌱 Currently learning Rust
 - 😄 Pronouns: he/him
