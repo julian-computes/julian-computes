@@ -1,5 +1,3 @@
-### Hi there 👋
+### julian-computes
 
-- 🔭 Currently working as a backend Java developer
-- 🌱 Currently learning Rust
-- 😄 Pronouns: he/him
+- Backend Java developer
