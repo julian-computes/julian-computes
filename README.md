@@ -1,3 +1,3 @@
 ### julian-computes
 
-- Backend Java developer
+Backend Java developer
