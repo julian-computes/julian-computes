@@ -1,3 +1,5 @@
 ### julian-computes
 
-Software Engineer @ [Replicant]([url](https://www.replicant.com/))
+Senior Software Engineer at [Replicant](https://www.replicant.com/).
+
+Building [Conversation Intelligence](https://www.replicant.com/platform/conversation-intelligence).
