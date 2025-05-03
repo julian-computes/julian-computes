@@ -1,3 +1,3 @@
 ### julian-computes
 
-Backend Java developer
+Software Engineer @ [Replicant]([url](https://www.replicant.com/))
